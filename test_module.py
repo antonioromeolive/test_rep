@@ -1,4 +1,4 @@
 PIPPO:str = "pippo"
 
 def due_per_due():
-    return 5
+    return 6
